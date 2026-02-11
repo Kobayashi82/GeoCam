@@ -4,7 +4,7 @@
 ![MSFS 2020](https://img.shields.io/badge/MSFS-2020-blue?style=for-the-badge)
 ![C Language](https://img.shields.io/badge/Language-VB.Net-red?style=for-the-badge)
 
-*Convierte capturas de GeoShot en MSFS a KML/KMZ para Google Earth*
+*Convierte capturas de GeoShot en MSFS 2020 a KML/KMZ para Google Earth*
 
 </div>
 
