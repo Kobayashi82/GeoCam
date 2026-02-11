@@ -28,7 +28,7 @@
 ### Metadata
 - Include aircraft, heading, speed, altitude, and location
 - Choose whether altitude is shown in feet or meters
-- Display speed in knots
+- Choose whether speed is shown in km/h or knots
 
 ### Presentation
 - Select icon style for placemarks

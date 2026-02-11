@@ -28,7 +28,7 @@
 ### Metadatos
 - Incluir aeronave, rumbo, velocidad, altitud y ubicación
 - Elegir si la altitud se muestra en pies o metros
-- Mostrar velocidad en nudos
+- Elegir si la velocidad se muestra en km/h o nudos
 
 ### Presentacion
 - Seleccionar el estilo del icono de los marcadores
