@@ -16,7 +16,7 @@
 
 [README in English](README.md)
 
-`GeoCam` convierte capturas de `GeoShot` en `Microsoft Flight Simulator 2020` a `KML/KMZ` para `Google Earth`, agregando la ubicacion y datos de vuelo.
+`GeoCam` convierte capturas de [GeoShot](https://es.flightsim.to/file/83543/geoshot-refined-geotagged-screenshots) en `Microsoft Flight Simulator 2020` a `KML/KMZ` para `Google Earth`, agregando la ubicacion y datos de vuelo.
 
 ## ✨ Características
 
@@ -55,7 +55,7 @@
 ## 📚 Preguntas Frecuentes
 
 **P: Que imagenes puede convertir GeoCam?**  
-R: Esta pensado para capturas de [GeoShot](https://es.flightsim.to/file/83543/geoshot-refined-geotagged-screenshots). Otras imagenes pueden funcionar si incluyen los mismos datos de geolocalizacion o siguen el formato esperado en el nombre.
+R: Esta pensado para capturas de `GeoShot`. Otras imagenes pueden funcionar si incluyen los mismos datos de geolocalizacion o siguen el formato esperado en el nombre.
 
 **P: Puedo exportar a una carpeta en lugar de `KMZ`?**  
 R: Si. Puedes guardar en carpeta o en `ZIP`.
