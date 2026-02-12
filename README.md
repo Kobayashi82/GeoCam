@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="/images/GeoCam.png">
+  <img src="/images/GeoCam.jpg">
 </div>
 
 # GeoCam
